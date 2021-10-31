@@ -1,1 +1,4 @@
-scripts
+scripts/build
+scripts/deploy
+scripts/terraform
+scripts/.env.dev

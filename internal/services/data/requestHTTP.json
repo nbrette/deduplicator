@@ -1,0 +1,13 @@
+{
+    "Message": {
+        "Attributes": {
+            "next_hop": "https://myurl.com/",
+            "next_hop_method": "http",
+            "hash_1": "90DEFB15FAC7706515422",
+            "hash_2": "022bb95081113fef100001f7700ffdde5eb01ead5412cde030000ccc4515d00000cdfccd"
+        },
+        "Data": [
+            
+        ]
+    }
+}
